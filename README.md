@@ -1,7 +1,9 @@
 # PostgreSQL avanzado
 
 This is the repository for the LinkedIn Learning course PostgreSQL avanzado. The full course is available from [LinkedIn Learning][lil-course-url].
- 
+
+![tn-url]
+
 Amplía y expande tus conocimientos sobre el motor de bases de datos relacionales PostgreSQL. En este curso aprenderás expresiones avanzadas como subqueries, trabajo con procedimientos, triggers, vistas y funciones, así como los comandos necesarios para el trabajo con JSON y XML. Al terminar, habrás alcanzado un dominio total de PostgreSQL y todo lo relacionado con la manipulación de bases de datos. ¿Empezamos ya este camino hacia tu maestría en PostgreSQL?
 
 
@@ -14,4 +16,5 @@ _Máster en Ingeniería (MEng)_
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas?u=104).
 
 [lil-course-url]: https://www.linkedin.com/learning/postgresql-avanzado
+[tn-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQH5iGc6m_pWGg/learning-public-crop_675_1200/0/1608190350121?e=1646964000&v=beta&t=0GhmoZEZ4sO5IGcIRP49nxDbAUSaFDddFwz8-mBLnrc
 
