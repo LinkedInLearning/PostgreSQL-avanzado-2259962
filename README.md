@@ -16,5 +16,4 @@ _Máster en Ingeniería (MEng)_
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas?u=104).
 
 [lil-course-url]: https://www.linkedin.com/learning/postgresql-avanzado
-[tn-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQH5iGc6m_pWGg/learning-public-crop_675_1200/0/1608190350121?e=1646964000&v=beta&t=0GhmoZEZ4sO5IGcIRP49nxDbAUSaFDddFwz8-mBLnrc
-
+[tn-url]: https://cdn.lynda.com/course/2259962/2259962-1627913910064-16x9.jpg
